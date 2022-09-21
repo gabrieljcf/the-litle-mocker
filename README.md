@@ -1,4 +1,7 @@
-execute application:
+## About
+- implementing design patterns using the example given by Robert Martin in the article the litle mocker
+
+##execute application:
 
 yarn install
-npx jest com as opções --watchAll ou --coverage
+yarn jest --watchAll ou --coverage
